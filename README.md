@@ -1,6 +1,3 @@
-Here’s a suitable **GitHub project description** you can add for your **Wind Power Prediction** project:
-
----
 
 ### 📌 Wind Power Prediction using Vedic and Gregorian Calendars
 
