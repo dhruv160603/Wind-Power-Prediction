@@ -11,6 +11,3 @@ This project explores an innovative approach to long-term wind power forecasting
 
 🔍 This work contributes to renewable energy forecasting by integrating calendar science with modern machine learning and questioning conventional timestamp assumptions.
 
----
-
-Let me know if you’d like a shorter or one-line version too.
